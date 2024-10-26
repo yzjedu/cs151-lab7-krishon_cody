@@ -1,3 +1,13 @@
+# Programmers: Cody and Krishon
+# Course: CS151, Professor Zee
+# Due Date: October 30th, 2024
+# Lab Assignment: Lab 07
+# Problem Statement: Find cost of flooring 5 rooms given length, width, and floor type
+# Data In: length, width, material
+# Data Out: cost (room cost), total_cost (overall cost), square_feet (area of room)
+# Credits: none other than class notes
+
+
 # Purpose:  [find the room dimensions and calculate square feet]
 # Parameters: [None]
 # Return: [square feet, float, area of room]
