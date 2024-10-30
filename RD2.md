@@ -15,6 +15,6 @@ The first challenge we encountered was at first we made 5 different functions, b
 it would be more effective if we just used 2.
 We first designed and planned, then wrote the code, then tested to see if the code worked.
 I think I learned what I was supposed to because my understanding on functions has increased. It was nice 
-working with Krishon.
+working with Krishon
 
 
