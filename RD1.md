@@ -1,14 +1,13 @@
-ENCRYPTED:
-# Anounlcrxw Mxldvnwc
+# Reflection Document
 
-* Maren Oduu Wjvn  : Tarbqxw Yrwtrwb
-* Yjacwna Oduu Wjvn: Lxmh Trwp
-* Bcdmnwc RM: 001938622
+* Drive Full Name  : Krishon Pinkins
+* Partner Full Name: Cody King
+* Student ID: 001938622
 
-Rw cqrb ujk fn fnan bdyyxbnm cx unjaw qxf cx uxxy jw mnorwnm odwlcrxw jw orwrcn jvxdwc xo crvnb.
+In this lab we were supposed to learn how to loop an defined function an finite amount of times.
 
-Fn knpjw kh mnenuxyrwp oren mroonanwc odwlcrxwb oxa cqn oren mroonanwc axxvb jwm j vjrw odwlcrxw cx mnenuxy rc juu.
-Jocna fn dwmnabcxxm cqjc fn bqxdum uxxy xwn odwlcrxw oren crvnb, fn fxatnm cx anojlcxa cqn rwrcrju lxmn cx kn dcrurinm rw j uxxy.
-Fn cnbcnm xda ljuldujcrxwb frcq ejarxdb cnbc ljbnb vjtrwp bdan cqjc xda yaxpajv fxatb rw ngcanvn lxwmrcrxwb.
+We began by developing five different functions for the five different rooms and a main function to develop it all.
+After we understood that we should loop one function five times, we worked to refactor the initial code to be utilized in a loop.
+We tested our calculations with various test cases making sure that our program works in extreme conditions.
 
-R knurnenm R unjawnm oaxv cqrb ujk fqjc R fjb bdyyxbnm cx jwm R nwsxhnm fxatrwp frcq vh yjacwna.
+I believed I learned from this lab what I was supposed to and I enjoyed working with my partner.
